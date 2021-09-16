@@ -1,0 +1,615 @@
+0	manual	positioning equipment
+1	industrial robot	positioning equipment
+2	ball transfer table	positioning equipment
+3	tilt table	positioning equipment
+4	dock leveler	positioning equipment
+5	lift table	positioning equipment
+6	hoist	positioning equipment
+7	rotary index table	positioning equipment
+8	manipulator	positioning equipment
+9	balancer	positioning equipment
+10	parts feeder	positioning equipment
+11	turn table	positioning equipment
+12	air film device	positioning equipment
+13	timing light	stroboscope
+14	drive-in rack	storage equipment
+15	cantilever rack	storage equipment
+16	mezzanine	storage equipment
+17	sliding rack	storage equipment
+18	shelves	storage equipment
+19	selective pallet rack	storage equipment
+20	drive-through rack	storage equipment
+21	split case order picking system	storage equipment
+22	bins	storage equipment
+23	drawers	storage equipment
+24	flow-through rack	storage equipment
+25	storage carousel	storage equipment
+26	retrieval systems	storage equipment
+27	automatic storage	storage equipment
+28	block stacking	storage equipment
+29	push-back rack	storage equipment
+30	stacking frame	storage equipment
+31	positioning equipment	equipment
+32	identification equipment	equipment
+33	heavy equipment	equipment
+34	storage equipment	equipment
+35	scientific instrument	equipment
+36	medical equipment	equipment
+37	audio equipment	equipment
+38	personal protective equipment	equipment
+39	emergency vehicle equipment	equipment
+40	fire apparatus	equipment
+41	rolling stock	equipment
+42	transport equipment	equipment
+43	communication equipment	equipment
+44	laboratory equipment	equipment
+45	agricultural equipment	equipment
+46	self-propelled passenger equipment	equipment
+47	camping equipment	equipment
+48	unit load formation equipment	equipment
+49	office equipment	equipment
+50	electrical equipment	equipment
+51	list of agricultural equipment	equipment
+52	military equipment	equipment
+53	alvis salamander	airport crash tender
+54	diving helmet	helmet
+55	riot protection helmet	helmet
+56	newstead helmet	helmet
+57	stahlhelm	helmet
+58	racing helmet	helmet
+59	chalcidian helmet	helmet
+60	flight helmet	helmet
+61	corinthian helmet	helmet
+62	guisborough helmet	helmet
+63	zuckerman helmet	helmet
+64	hounskull	helmet
+65	boeotian helmet	helmet
+66	phrygian type helmet	helmet
+67	hallaton helmet	helmet
+68	mining helmet	helmet
+69	coolus helmet	helmet
+70	close helm	helmet
+71	modèle 1978 helmet	helmet
+72	iraqi m80 helmet	helmet
+73	ribchester helmet	helmet
+74	bicycle helmet	helmet
+75	imperial helmet	helmet
+76	olympic cool-cap system	helmet
+77	makarapa	helmet
+78	barbute	helmet
+79	horned helmet	helmet
+80	kegelhelm	helmet
+81	motorcycle helmet	helmet
+82	custodian helmet	helmet
+83	ssh-68	helmet
+84	headgear	helmet
+85	pith helmet	helmet
+86	lifeboatman's helmet	helmet
+87	crosby garrett helmet	helmet
+88	batting helmet	helmet
+89	winged helmet	helmet
+90	bulgarian m36 helmet	helmet
+91	attic helmet	helmet
+92	close helmet	helmet
+93	firefighter's helmet	helmet
+94	shmarjet	helmet
+95	negau helmet	helmet
+96	tarnhelm	helmet
+97	pickelhaube	helmet
+98	conical helmet	helmet
+99	l'eplattenier helmet	helmet
+100	konos	helmet
+101	welding helmet	helmet
+102	mathiole	helmet
+103	visor	helmet
+104	galea	helmet
+105	bascinet	helmet
+106	illyrian type helmet	helmet
+107	nijmegen helmet	helmet
+108	helmet of coţofeneşti	helmet
+109	boar's tusk helmet	helmet
+110	sunrise	solar telescope
+111	spectrohelioscope	solar telescope
+112	swedish solar telescope	solar telescope
+113	reflecting telescope	optical telescope
+114	southern african large telescope	optical telescope
+115	bta-6	optical telescope
+116	jacobus kapteyn telescope	optical telescope
+117	binoculars	optical telescope
+118	schmidt camera	optical telescope
+119	automated planet finder	optical telescope
+120	advanced crew escape suit	pressure suit
+121	apollo/skylab a7l	pressure suit
+122	launch entry suit	pressure suit
+123	navy mark iv	pressure suit
+124	wheel speed sensor	tachometer
+125	scanning hall probe microscope	scanning tunneling microscope
+126	chute conveyor	conveyor
+127	bucket conveyor	conveyor
+128	cart-on-track conveyor	conveyor
+129	roller conveyor	conveyor
+130	flat belt conveyor	conveyor
+131	pneumatic conveyor	conveyor
+132	slat conveyor	conveyor
+133	trolley conveyor	conveyor
+134	magnetic belt conveyor	conveyor
+135	tow conveyor	conveyor
+136	chain conveyor	conveyor
+137	power-and-free conveyor	conveyor
+138	monorail	conveyor
+139	troughed belt conveyor	conveyor
+140	screw conveyor	conveyor
+141	wheel conveyor	conveyor
+142	sortation conveyor	conveyor
+143	vertical conveyor	conveyor
+144	vibrating conveyor	conveyor
+145	samuel oschin telescope	schmidt camera
+146	uppsala southern schmidt telescope	schmidt camera
+147	m8 tractor	artillery tractor
+148	morris c8	artillery tractor
+149	morris cdsw	artillery tractor
+150	ats-59	artillery tractor
+151	hitachi type 73	artillery tractor
+152	krupp protze	artillery tractor
+153	laffly v15	artillery tractor
+154	aec matador	artillery tractor
+155	somua mcg	artillery tractor
+156	at-l	artillery tractor
+157	c7p	artillery tractor
+158	m6 tractor	artillery tractor
+159	at-t	artillery tractor
+160	landwasserschlepper	artillery tractor
+161	m4 tractor	artillery tractor
+162	m5 tractor	artillery tractor
+163	paver	heavy equipment
+164	road roller	heavy equipment
+165	cold planer	heavy equipment
+166	suction excavator	heavy equipment
+167	harvester	heavy equipment
+168	amx-30 bridge	heavy equipment
+169	forwarder	heavy equipment
+170	tractor	heavy equipment
+171	kouppas	heavy equipment
+172	tracked loader	heavy equipment
+173	indicated airspeed	airspeed indicator
+174	suzuki frame	medical equipment
+175	cervical collar	medical equipment
+176	rapid dna	medical equipment
+177	tower viewer	binoculars
+178	image-stabilized binoculars	binoculars
+179	stock car	rolling stock
+180	mp ng	rolling stock
+181	la brugeoise cars	rolling stock
+182	kawasaki heavy industries c151	rolling stock
+183	sprague-thomson	rolling stock
+184	öbb rolling stock	rolling stock
+185	ma 51	rolling stock
+186	austauschbauart	rolling stock
+187	dbag class 641	rolling stock
+188	intercity 250	rolling stock
+189	81-720/721	rolling stock
+190	81-740/741	rolling stock
+191	steamrail victoria	rolling stock
+192	fall arrest	safety harness
+193	seat belt	safety harness
+194	child harness	safety harness
+195	ocean-bottom seismometer	seismometer
+196	five-point harness	seat belt
+197	current transformer	electrical equipment
+198	mechanical connections	electrical equipment
+199	cryogenic current comparator	electrical equipment
+200	cathodic protection rectifier	electrical equipment
+201	nustar	x-ray telescope
+202	solar x-ray imager	x-ray telescope
+203	rosat	x-ray telescope
+204	polonator	dna sequencer
+205	barrel barbecue	barbecue
+206	god-grilla	barbecue
+207	kappōgi	apron
+208	podea	apron
+209	magnetic stripe	identification equipment
+210	machine vision	identification equipment
+211	bar codes	identification equipment
+212	radio frequency tag	identification equipment
+213	caterpillar cs-533e	road roller
+214	steamroller	road roller
+215	industrial truck	truck
+216	tractor	truck
+217	talkback	audio equipment
+218	tail-pulse generator	audio equipment
+219	snickometer	audio equipment
+220	lenco turntables	audio equipment
+221	picture line-up generation equipment	audio equipment
+222	mixer-settler	audio equipment
+223	coolflo	batting helmet
+224	uni-engine	fire apparatus
+225	quint	fire apparatus
+226	apache axis2	fire apparatus
+227	dennis dagger	fire apparatus
+228	dennis ss series	fire apparatus
+229	dennis ds series	fire apparatus
+230	dennis rs series	fire apparatus
+231	airport crash tender	fire apparatus
+232	aerial straps	fire apparatus
+233	water tender	fire apparatus
+234	barbecue	fire apparatus
+235	stanhope lens	microscope
+236	multiphoton fluorescence microscope	microscope
+237	environmental scanning electron microscope	microscope
+238	x-ray microscope	microscope
+239	larmor neutron microscope	microscope
+240	atom probe	microscope
+241	knife-edge scanning microscope	microscope
+242	inverted microscope	microscope
+243	optical microscope	microscope
+244	scanning electron microscope	microscope
+245	field emission probes	microscope
+246	operating microscope	microscope
+247	cathodoluminescence microscope	microscope
+248	total internal reflection fluorescence microscope	microscope
+249	low-voltage electron microscope	microscope
+250	portable data terminal	communication equipment
+251	internet	communication equipment
+252	electronic data interchange	communication equipment
+253	fog fence	laboratory equipment
+254	plate reader	laboratory equipment
+255	nichols radiometer	laboratory equipment
+256	drosometer	laboratory equipment
+257	hyfrecator	laboratory equipment
+258	self-injurious behavior inhibiting system	laboratory equipment
+259	vaccine bath	laboratory equipment
+260	traveling microscope	laboratory equipment
+261	perkin triangle	laboratory equipment
+262	thermal cycler	laboratory equipment
+263	slit lamp	laboratory equipment
+264	microscope	laboratory equipment
+265	dynamic voltage restoration	laboratory equipment
+266	multiple-effect evaporator	laboratory equipment
+267	chronophone	laboratory equipment
+268	phonodeik	laboratory equipment
+269	double boiler	laboratory equipment
+270	light gas gun	laboratory equipment
+271	bathometer	laboratory equipment
+272	colony counter	laboratory equipment
+273	scanning tunneling microscope	laboratory equipment
+274	schlenk line	laboratory equipment
+275	blink comparator	laboratory equipment
+276	chemigation valve	laboratory equipment
+277	rheoscope	laboratory equipment
+278	weighing bottle	laboratory equipment
+279	kipp's apparatus	laboratory equipment
+280	egg hatch assay	laboratory equipment
+281	balance beam	laboratory equipment
+282	impact microscope	laboratory equipment
+283	belt dryer	laboratory equipment
+284	combustion pipette	laboratory equipment
+285	operant conditioning chamber	laboratory equipment
+286	hydration system	laboratory equipment
+287	french pressure cell press	laboratory equipment
+288	telescope	laboratory equipment
+289	kugelrohr	laboratory equipment
+290	bars apparatus	laboratory equipment
+291	sonometer	laboratory equipment
+292	ampere balance	laboratory equipment
+293	mooney viscometer	laboratory equipment
+294	twist compression tester	laboratory equipment
+295	coulter counter	laboratory equipment
+296	vise	laboratory equipment
+297	bubble column reactor	laboratory equipment
+298	knelson concentrator	laboratory equipment
+299	system80	laboratory equipment
+300	aedc range g	light gas gun
+301	noise dosimeter	sound level meter
+302	hitachi 917	automated analyser
+303	sysmex xe-2100	automated analyser
+304	artillery tractor	military equipment
+305	allis-chalmers model g	tractor
+306	ferguson te20	tractor
+307	farmall	tractor
+308	nuffield universal	tractor
+309	minneapolis-moline	tractor
+310	lanz bulldog	tractor
+311	caterpillar twenty-two	tractor
+312	allis-chalmers model b	tractor
+313	ats 56 g	tractor
+314	cmp fat	tractor
+315	hiboy	tractor
+316	subsoiler	tractor
+317	rmas fiona (a148)	tractor
+318	empire state pullers	tractor
+319	ford 5000	tractor
+320	massey-harris model 101	tractor
+321	artillery tractor	tractor
+322	terence the tractor	tractor
+323	kirovets k-700	tractor
+324	massey-harris model 81	tractor
+325	john deere mc	tractor
+326	farmall cub	tractor
+327	caterpillar d8	tractor
+328	john deere 3020	tractor
+329	caterpillar d2	tractor
+330	challenger tractor	tractor
+331	allis-chalmers model wc	tractor
+332	claas axion	tractor
+333	farmall 1026	tractor
+334	massey-harris model 20	tractor
+335	john deere 5220	tractor
+336	caterpillar d9	tractor
+337	darby steam-digger	tractor
+338	massey ferguson 399	tractor
+339	ebro trucks	tractor
+340	allis-chalmers d series	tractor
+341	type 60 tracked tractor	tractor
+342	net radiometer	actinometer
+343	astroscan	reflecting telescope
+344	gregorian telescope	reflecting telescope
+345	crossley telescope	reflecting telescope
+346	nasmyth telescope	reflecting telescope
+347	gran telescopio canarias	reflecting telescope
+348	vista (telescope)	reflecting telescope
+349	hale telescope	reflecting telescope
+350	newtonian telescope	reflecting telescope
+351	tauchmann telescope	reflecting telescope
+352	c. donald shane telescope	reflecting telescope
+353	carnegie telescope	reflecting telescope
+354	vane anemometer	anemometer
+355	bridge crane	cranes
+356	gantry crane	cranes
+357	stacker crane	cranes
+358	jib crane	cranes
+359	shuckburgh telescope	refracting telescope
+360	craig telescope	refracting telescope
+361	copyscope	refracting telescope
+362	galileoscope	refracting telescope
+363	monocular	refracting telescope
+364	achromatic telescope	refracting telescope
+365	zymoscope	scientific instrument
+366	stroboscope	scientific instrument
+367	electrometer	scientific instrument
+368	variometer	scientific instrument
+369	magnetograph	scientific instrument
+370	cinetheodolite	scientific instrument
+371	hearfones	scientific instrument
+372	permeameter	scientific instrument
+373	tachometer	scientific instrument
+374	koenig's manometric flame apparatus	scientific instrument
+375	clarity meter	scientific instrument
+376	airspeed indicator	scientific instrument
+377	strainmeter	scientific instrument
+378	creepmeter	scientific instrument
+379	nephelometer	scientific instrument
+380	heliometer	scientific instrument
+381	odometer	scientific instrument
+382	pendulum	scientific instrument
+383	tribometer	scientific instrument
+384	hypsometer	scientific instrument
+385	methanometer	scientific instrument
+386	pilot direction indicator	scientific instrument
+387	seismometer	scientific instrument
+388	cathetometer	scientific instrument
+389	time pressure gauge	scientific instrument
+390	dna sequencer	scientific instrument
+391	phoropter	scientific instrument
+392	pyrheliometer	scientific instrument
+393	plethysmograph	scientific instrument
+394	sclerometer	scientific instrument
+395	viscometer	scientific instrument
+396	automatic pressure tracking adiabatic calorimeter	scientific instrument
+397	hook gauge evaporimeter	scientific instrument
+398	frequency domain sensor	scientific instrument
+399	vertometer	scientific instrument
+400	optical tweezers	scientific instrument
+401	automated analyser	scientific instrument
+402	sound level meter	scientific instrument
+403	energy analyser	scientific instrument
+404	actinometer	scientific instrument
+405	microprobe	scientific instrument
+406	saccharimeter	scientific instrument
+407	scintillating bolometer	scientific instrument
+408	hydrometer	scientific instrument
+409	anemometer	scientific instrument
+410	dynameter	scientific instrument
+411	carbon dioxide sensor	scientific instrument
+412	electroscope	scientific instrument
+413	graphometer	scientific instrument
+414	microstructured optical arrays	scientific instrument
+415	glossmeter	scientific instrument
+416	macrometer	scientific instrument
+417	lensmeter	scientific instrument
+418	pyranoscope	scientific instrument
+419	potentiometer	scientific instrument
+420	mass interconnect	scientific instrument
+421	disdrometer	scientific instrument
+422	geiger tube telescope	scientific instrument
+423	cyanometer	scientific instrument
+424	oscillograph	scientific instrument
+425	knee pad	personal protective equipment
+426	safety harness	personal protective equipment
+427	hockey pants	personal protective equipment
+428	eye protection	personal protective equipment
+429	wrist guard	personal protective equipment
+430	anti-flash gear	personal protective equipment
+431	pressure suit	personal protective equipment
+432	flak jacket	personal protective equipment
+433	helmet	personal protective equipment
+434	chainsaw safety clothing	personal protective equipment
+435	apron	personal protective equipment
+436	versorium	electroscope
+437	gornergrat infrared telescope	telescope
+438	modified dall–kirkham telescope	telescope
+439	yevpatoria rt-70 radio telescope	telescope
+440	palomar testbed interferometer	telescope
+441	heinrich hertz submillimeter telescope	telescope
+442	cosmic background imager	telescope
+443	grand interferometre a 2 telescopes	telescope
+444	eso 3.6 m telescope	telescope
+445	infinite-axis telescope	telescope
+446	solar telescope	telescope
+447	tower viewer	telescope
+448	suffa rt-70 radio telescope	telescope
+449	large millimeter telescope	telescope
+450	astronomical netherlands satellite	telescope
+451	mauritius radio telescope	telescope
+452	optical telescope	telescope
+453	esa space debris telescope	telescope
+454	infrared telescope	telescope
+455	zenith telescope	telescope
+456	telescopio nazionale galileo	telescope
+457	bradford robotic telescope	telescope
+458	korea advanced institute of science and technology satellite 4	telescope
+459	cambridge low frequency synthesis telescope	telescope
+460	siding spring 2.3 m telescope	telescope
+461	carlsberg meridian telescope	telescope
+462	ogs telescope	telescope
+463	nasa infrared telescope facility	telescope
+464	schmidt-väisälä camera	telescope
+465	mercator telescope	telescope
+466	space solar telescope	telescope
+467	x-ray telescope	telescope
+468	very large telescope	telescope
+469	vlt survey telescope	telescope
+470	hegra	telescope
+471	stratoscope	telescope
+472	space surveillance telescope	telescope
+473	swedish vacuum solar telescope	telescope
+474	broad band x-ray telescope	telescope
+475	astrograph	telescope
+476	ooty radio telescope	telescope
+477	bernard lyot telescope	telescope
+478	kunlun dark universe survey telescope	telescope
+479	advanced telescope for high energy astrophysics	telescope
+480	korsch telescope	telescope
+481	meade lx200	telescope
+482	sardinia radio telescope	telescope
+483	lorun	telescope
+484	hubble space telescope	telescope
+485	subaru telescope	telescope
+486	national large solar telescope	telescope
+487	southern astrophysical research telescope	telescope
+488	telescopio carlos sánchez	telescope
+489	viper telescope	telescope
+490	comet seeker	telescope
+491	coudé auxiliary telescope	telescope
+492	refracting telescope	telescope
+493	near earth object camera	telescope
+494	hobby-eberly telescope	telescope
+495	stockert radio telescope	telescope
+496	nançay radio telescope	telescope
+497	klevtsov–cassegrain telescope	telescope
+498	chinese giant solar telescope	telescope
+499	james clerk maxwell telescope	telescope
+500	automated patrol telescope	telescope
+501	nordic optical telescope	telescope
+502	hexapod-telescope	telescope
+503	kraus-type	telescope
+504	prompt telescopes	telescope
+505	cfa 1.2 m millimeter-wave telescope	telescope
+506	m49 telescope	telescope
+507	great refractor	telescope
+508	far ultraviolet spectroscopic explorer	telescope
+509	ohio state university radio observatory	telescope
+510	finderscope	telescope
+511	relikt-1	telescope
+512	vector magnetograph	telescope
+513	half-mile telescope	telescope
+514	ball state university observatory	telescope
+515	xo telescope	telescope
+516	dutch open telescope	telescope
+517	cosmic anisotropy telescope	telescope
+518	pfund telescope	telescope
+519	antarctic muon and neutrino detector array	telescope
+520	cherenkov array at themi	telescope
+521	wolter telescope	telescope
+522	tower telescope	telescope
+523	einstein observatory	telescope
+524	european extremely large telescope	telescope
+525	razdow telescope	telescope
+526	canada–france–hawaii telescope	telescope
+527	x-ray astronomy satellites	telescope
+528	livermore optical transient imaging system	telescope
+529	very small array	telescope
+530	history of the telescope	telescope
+531	james gregory telescope	telescope
+532	major atmospheric cerenkov experiment telescope	telescope
+533	schmidt–newton telescope	telescope
+534	mpg/eso telescope	telescope
+535	reber radio telescope	telescope
+536	cerro chajnantor atacama telescope	telescope
+537	spotting scope	telescope
+538	blast	telescope
+539	katzman automatic imaging telescope	telescope
+540	james webb space telescope	telescope
+541	víctor m. blanco telescope	telescope
+542	james lick telescope	telescope
+543	balloon-borne telescope	telescope
+544	chandra x-ray observatory	telescope
+545	discovery channel telescope	telescope
+546	lurie–houghton telescope	telescope
+547	galenki rt-70 radio telescope	telescope
+548	long michelson interferometer	telescope
+549	mons telescope	telescope
+550	primeval structure telescope	telescope
+551	liverpool telescope	telescope
+552	effelsberg 100-m radio telescope	telescope
+553	high resolution coronal imager	telescope
+554	small telescope	telescope
+555	40-foot telescope	telescope
+556	nicholas u. mayall telescope	telescope
+557	south pole telescope	telescope
+558	otto struve telescope	telescope
+559	anna l. nickel telescope	telescope
+560	a broadband imaging x-ray all-sky survey	telescope
+561	westerbork synthesis radio telescope	telescope
+562	three-mirror anastigmat	telescope
+563	molonglo observatory synthesis telescope	telescope
+564	robotic telescope	telescope
+565	bok telescope	telescope
+566	atacama cosmology telescope	telescope
+567	green bank interferometer	telescope
+568	3.67 m advanced electro optical system telescope	telescope
+569	hydration pack	hydration system
+570	cranes	transport equipment
+571	truck	transport equipment
+572	conveyor	transport equipment
+573	fluorescence microscope	optical microscope
+574	petrographic microscope	optical microscope
+575	vertico smi	optical microscope
+576	sunglasses	eye protection
+577	automatic guided vehicle (agv)	industrial truck
+578	narrow-aisle straddle truck	industrial truck
+579	personnel carrier	industrial truck
+580	hand truck	industrial truck
+581	platform truck	industrial truck
+582	counterbalanced lift truck	industrial truck
+583	turret truck	industrial truck
+584	tractor-trailer	industrial truck
+585	burden carrier	industrial truck
+586	pallet truck	industrial truck
+587	order picker	industrial truck
+588	sideloader	industrial truck
+589	pallet jack	industrial truck
+590	walkie stacker	industrial truck
+591	narrow-aisle reach truck	industrial truck
+592	racks	unit load formation equipment
+593	shrink-wrap	unit load formation equipment
+594	stretch-wrap	unit load formation equipment
+595	strapping	unit load formation equipment
+596	glue	unit load formation equipment
+597	pallet boxes	unit load formation equipment
+598	tape	unit load formation equipment
+599	self-restraining	unit load formation equipment
+600	bulk load containers	unit load formation equipment
+601	pallets	unit load formation equipment
+602	bins	unit load formation equipment
+603	baskets	unit load formation equipment
+604	palletizers	unit load formation equipment
+605	crates	unit load formation equipment
+606	skids	unit load formation equipment
+607	skid boxes	unit load formation equipment
+608	tote pans	unit load formation equipment
+609	slipsheets	unit load formation equipment
+610	intermodal containers	unit load formation equipment
+611	cartons	unit load formation equipment
+612	bags	unit load formation equipment
+613	trappist	robotic telescope
+614	electromagnetic oscillograph	oscillograph

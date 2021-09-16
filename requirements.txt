@@ -1,0 +1,8 @@
+matplotlib==3.4.1
+networkx==2.5.1
+numpy==1.20.2
+pandas==1.2.4
+torch==1.8.1
+transformers==3.3.1
+tqdm==4.61.0
+git+git://github.com/awslabs/mlm-scoring.git@master#egg=mlm
