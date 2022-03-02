@@ -1,7 +1,8 @@
-# Pretrained LMs for Unsupervised Taxonomy Learning
+# Distilling Hypernymy Relations from Language Models
 
-This is the implementation of ***Pretrained Language Models for Zero-Shot Taxonomy Learning***. We investigate the use of pretrained language models (LM) for taxonomy learning in a zero-shot setting using prompting and sentence-scoring methods. Through extensive experiments on public benchmarks from [TExEval-1](https://www.aclweb.org/anthology/S15-2151/) and [TExEval-2](https://www.aclweb.org/anthology/S16-1168/), we show that our proposed approaches outperform some supervised methods and are competitive with SOTA under certain conditions.
+This is the implementation for the paper ***Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction***. We investigate the use of pretrained language models (LM) for taxonomy learning in a zero-shot setting using prompting and sentence-scoring methods. Through extensive experiments on public benchmarks from [TExEval-1](https://www.aclweb.org/anthology/S15-2151/) and [TExEval-2](https://www.aclweb.org/anthology/S16-1168/), we show that our proposed approaches outperform some supervised methods and are competitive with SOTA under certain conditions.
 
+[arXiv](https://arxiv.org/abs/2202.04876)
 
 ## Setup
 ### Create `conda` environment
